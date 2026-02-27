@@ -104,10 +104,14 @@ Missing / invalid rows after cleaning: 0
 Data Quality & Cleaning
 
 Applied production-style quality rules:
+<img width="1919" height="957" alt="Executive_Overview_Dashboard" src="https://github.com/user-attachments/assets/65524bd6-d3b1-4bd7-b067-a44e469fccd1" />
 
 Invalid timestamps → coerced / removed
+<img width="1919" height="929" alt="Model_Monitoring_ _Governance_Dasboard" src="https://github.com/user-attachments/assets/1dae8e86-588e-48d2-978e-a536040e0114" />
+<img width="1892" height="933" alt="Pattern_ _Driver_Intelligence_Dashboard" src="https://github.com/user-attachments/assets/7874a805-fe6b-4059-a590-b36bd7b33b49" />
 
 Amount ≤ 0 → removed
+<img width="1919" height="931" alt="Fraud_Ops_Workbench_Dashboard" src="https://github.com/user-attachments/assets/b3a2ceaf-0e76-4225-9f09-d219c1e7e916" />
 
 Age outside realistic range → handled
 
@@ -376,4 +380,5 @@ Fraud Analytics Strategy
 Author
 
 Veda Vaishnavi
+
      -Aspiring Data Analyst
